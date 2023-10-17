@@ -1,0 +1,25 @@
+
+body{
+    background-color: black;
+}.app-title{
+    text-align:center;
+    color: bisque;
+}
+.search-bar{
+    display:block;
+    margin:10px auto ;
+    width:300px;
+    padding:10px;
+    font-size:20px;
+    color: black;
+    border-radius: 30px;
+}
+.temperature-text{
+    text-align:center;
+    font-size:30px;
+    color: bisque;
+}
+.message-text{
+    text-align:center;
+    color: bisque;
+}
